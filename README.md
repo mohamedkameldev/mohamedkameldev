@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Laravel & PHP**
 
-- 📫 How to reach me **[Email](mokammel0000@gmail.com)** or **[Telegram](https://t.me/mokammel0000)**
+- 📫 How to reach me **[Email](mailto:mokammel0000@gmail.com)** or **[Telegram](https://t.me/mokammel0000)**
 
 
 # 💻 Languages & Tools:
