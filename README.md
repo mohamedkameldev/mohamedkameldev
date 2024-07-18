@@ -20,7 +20,7 @@
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange.svg?style=flat&logo=jupyter)
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-Notebook-yellow.svg?style=flat&logo=google-colab)
 ![linux](https://img.shields.io/badge/linux-blue?style=flat&logo=linux&logoColor=white) 
-![bash](https://img.shields.io/badge/bash-gray?style=flat&logo=gnubash&logoColor=white) 
+![bash](https://img.shields.io/badge/bash-gray?style=flat&logo=gnubash&logoColor=white)  
 ![HTML](https://img.shields.io/badge/html-%23E34F26.svg?style=flat&logo=html5&logoColor=white) 
 ![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=flat&logo=css3&logoColor=white) 
 ![PHP](https://img.shields.io/badge/php-purple?style=flat&logo=php&logoColor=white) 
